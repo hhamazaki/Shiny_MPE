@@ -1,0 +1,13 @@
+name: Missed_Run
+title: Missed_Run
+username: hamachan
+account: hamachan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620636
+bundleId: 9237231
+url: https://hamachan.shinyapps.io/Missed_Run/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.txt
